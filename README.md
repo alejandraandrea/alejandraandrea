@@ -1,4 +1,4 @@
-### Statistics | Programming | Data Science | R-Ladies | Art+Science+Technology
+### Statistics | Programming | Data Science | R-Ladies | AST
 
 <!--
 **alejandraandrea/alejandraandrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
